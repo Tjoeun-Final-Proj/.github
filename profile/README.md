@@ -3,7 +3,7 @@
 # 🚚 BoxMon (화물 운송 중계 플랫폼)
 > 화주(화물)와 차주/운송사를 빠르게 매칭하고, 배차·운송·정산까지 한 번에 관리하는 플랫폼
 
-![banner](./assets/banner.svg)
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b95c9102-ce33-40f7-9bed-660df8d3de0b" />
 
 [![License](https://img.shields.io/badge/license-MIT-black.svg)](#license)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
